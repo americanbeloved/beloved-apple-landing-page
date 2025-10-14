@@ -1,4 +1,4 @@
-const navLinks = [
+const navlinks = [
     { label: "Store" },
     { label: "Mac" },
     { label: "iPhone" },
@@ -132,7 +132,7 @@ export {
     features,
     featureSequence,
     footerLinks,
-    navLinks,
+    navlinks,
     noChangeParts,
     performanceImages,
     performanceImgPositions,
